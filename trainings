@@ -107,7 +107,9 @@ bind "KP_PGUP" "buy awp"
 bind "KP_DEL" "buy molotov; buy incgrenade"
 bind KP_UPARROW "buy aug; buy sg556"
 
-
+Shots to kill 7
+Static tasrget duration infinite
+delay to 0
 
 
 
