@@ -1,3 +1,23 @@
+CONSOLE COMMANDS
+ALL BOTS VS YOU
+   bot_kick
+   mp_autoteambalance 0
+   mp_limitteams 0
+   bot_add_t (If you're CT) bot_add_ct (If you're T) - repeat 10 times
+
+BOTS KNIVES ONLY
+   bot_knives_only 1
+
+SLOW MOTION
+   host_timescale 0.8 (Slow motion)
+   host_timescale 1 (Normal speed)
+   host_timescale 1.2 (Faster) ...you get the idea
+
+This is a sort of 'second part' of a series. You can see the first here, which is focused on finding a way of monitoring how your aim fluctuates over a period of time.
+http://youtu.be/u9SBFF7nuV4
+
+
+
 0.25 delay
 0.5. duration
 size 10
